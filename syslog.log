@@ -1,0 +1,2 @@
+2022-04-27 15:35:56,833:INFO:6_sem_nome_ainda.py:ERRO - Erro ao inserir os dados no Banco de Dados.
+2022-04-27 15:35:56,833:INFO:6_sem_nome_ainda.py: ERRO - "['acumulado_total_vendas'] not in index"
